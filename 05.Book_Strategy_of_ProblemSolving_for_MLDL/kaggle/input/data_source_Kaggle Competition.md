@@ -1,6 +1,6 @@
-###########################################
-data_source : Kaggle Competition 
-###########################################
+###########################################  
+data_source : Kaggle Competition   
+###########################################  
 
 1. Bike Sharing Demand (https://www.kaggle.com/competitions/bike-sharing-demand)
 2. Categorical Feature Encoding Challenge (https://www.kaggle.com/competitions/cat-in-the-dat)
