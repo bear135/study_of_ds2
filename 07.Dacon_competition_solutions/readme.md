@@ -3,7 +3,7 @@
 ################################################################
 
 - book : https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260707457
-- source : https://github.com/wikibook/dacom
+- source : https://github.com/wikibook/dacon
 - contents : 
   - 1장 타자 OPS 모델링
   - 2장 반도체 박막 두께 분석
