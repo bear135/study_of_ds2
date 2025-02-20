@@ -26,11 +26,11 @@
 > Motors AS active customers data (EDA) 
 
 ### 07.Dacon_competition_solutions
-> 1장. 타자 OPS 모델링 
-> 2장. 반도체 박막 두께 분석
-> 3장. 버스 승차 인원 예측
-> 4장. 상점 매출 예측
-> 5장. 투수 스카우트 최적화
+> 1장. 타자 OPS 모델링   
+> 2장. 반도체 박막 두께 분석  
+> 3장. 버스 승차 인원 예측  
+> 4장. 상점 매출 예측  
+> 5장. 투수 스카우트 최적화  
 
 ### 08.Sentiment_Analysis_w_A
 > 네이버 고객리뷰 데이터에 대한 감성 분석 (w/chat-gpt API) 
