@@ -33,5 +33,8 @@
 > 5장. 투수 스카우트 최적화  
 
 ### 08.Sentiment_Analysis_w_A
-> 네이버 고객리뷰 데이터에 대한 감성 분석 (w/chat-gpt API) 
+> 네이버 고객리뷰 데이터에 대한 감성 분석 (w/chat-gpt API)
+
+### 09.AICE_associtate
+> AICE_associtate 시험을 위한 교재 정리
 
