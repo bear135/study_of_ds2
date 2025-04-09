@@ -38,3 +38,5 @@
 ### 09.AICE_associtate
 > AICE_associtate 시험을 위한 교재 정리
 
+### 10.Clova OCR
+> 다량의 하드카피 문서로부터 필요한 텍스트 추출 
